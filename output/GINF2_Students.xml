@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students Class="GINF2">
+   <student CIN="A1000"
+             CNE="P1000001"
+             Capoge="19006326"
+             Inscription="2019 / 2020">
+      <FirstName>ABASSI</FirstName>
+      <LastName>YASSER</LastName>
+      <Email>yasser.abassi@etu.uae.ac.ma</Email>
+      <Phone>0604621261</Phone>
+      <Photo>src/main/db/photos/ABASSI_YASSER.jpeg</Photo>
+   </student>
+   <student CIN="A1001"
+             CNE="P1000002"
+             Capoge="19005881"
+             Inscription="2019 / 2020">
+      <FirstName>ALAMI-OUAHABI</FirstName>
+      <LastName>LOUAY</LastName>
+      <Email>louay.alamiouahabi@etu.uae.ac.ma</Email>
+      <Phone>0699296620</Phone>
+      <Photo>src/main/db/photos/ALAMI-OUAHABI_LOUAY.jpeg</Photo>
+   </student>
+   <student CIN="A1001"
+             CNE="P1000003"
+             Capoge="18008781"
+             Inscription="2019 / 2020">
+      <FirstName>AMAATI</FirstName>
+      <LastName>ZAKARIAE</LastName>
+      <Email>zakariae.amaati@etu.uae.ac.ma</Email>
+      <Phone>0632067364</Phone>
+      <Photo>src/main/db/photos/AMAATI_ZAKARIAE.jpeg</Photo>
+   </student>
+   <student CIN="A1003"
+             CNE="P1000004"
+             Capoge="19006363"
+             Inscription="2019 / 2020">
+      <FirstName>AMAMI</FirstName>
+      <LastName>YASSIR</LastName>
+      <Email>yassir.amami@etu.uae.ac.ma</Email>
+      <Phone>0653809729</Phone>
+      <Photo>src/main/db/photos/AMAMI_YASSIR.jpeg</Photo>
+   </student>
+   <student CIN="A1004"
+             CNE="P1000005"
+             Capoge="19006293"
+             Inscription="2019 / 2020">
+      <FirstName>ASSADI</FirstName>
+      <LastName>MOUAD</LastName>
+      <Email>mouad.assadi@etu.uae.ac.ma</Email>
+      <Phone>0628486330</Phone>
+      <Photo>src/main/db/photos/ASSADI_MOUAD.jpeg</Photo>
+   </student>
+   <student CIN="A1005"
+             CNE="P1000006"
+             Capoge="19007310"
+             Inscription="2019 / 2020">
+      <FirstName>ATYQ</FirstName>
+      <LastName>AMINE</LastName>
+      <Email>amine.atyq1@etu.uae.ac.ma</Email>
+      <Phone></Phone>
+      <Photo>src/main/db/photos/ATYQ_AMINE.jpeg</Photo>
+   </student>
+   <student CIN="A1006"
+             CNE="P1000007"
+             Capoge="19005697"
+             Inscription="2019 / 2020">
+      <FirstName>BELAFKI</FirstName>
+      <LastName>YASSINE</LastName>
+      <Email>yassine.belafki@etu.uae.ac.ma</Email>
+      <Phone>0645876609</Phone>
+      <Photo>src/main/db/photos/BELAFKI_YASSINE.jpeg</Photo>
+   </student>
+   <student CIN="A1007"
+             CNE="P1000008"
+             Capoge="19006369"
+             Inscription="2019 / 2020">
+      <FirstName>BELKENTAOUI</FirstName>
+      <LastName>OMAR</LastName>
+      <Email>omar.belkentaoui@etu.uae.ac.ma</Email>
+      <Phone>0687397333</Phone>
+      <Photo>src/main/db/photos/BELKENTAOUI_OMAR.jpeg</Photo>
+   </student>
+   <student CIN="A1008"
+             CNE="P1000009"
+             Capoge="19006902"
+             Inscription="2019 / 2020">
+      <FirstName>BENAFITOU</FirstName>
+      <LastName>ASMAE</LastName>
+      <Email>asmae.benafitou@etu.uae.ac.ma</Email>
+      <Phone>0625706506</Phone>
+      <Photo>src/main/db/photos/BENAFITOU_ASMAE.jpeg</Photo>
+   </student>
+   <student CIN="A1009"
+             CNE="P1000010"
+             Capoge="17003879"
+             Inscription="2019 / 2020">
+      <FirstName>BOUARFA</FirstName>
+      <LastName>RIME</LastName>
+      <Email>rime.bouarfa@etu.uae.ac.ma</Email>
+      <Phone>0762527455</Phone>
+      <Photo>src/main/db/photos/BOUARFA_RIME.jpeg</Photo>
+   </student>
+   <student CIN="A1010"
+             CNE="P1000011"
+             Capoge="18002279"
+             Inscription="2019 / 2020">
+      <FirstName>BOUDAN</FirstName>
+      <LastName>AHMED</LastName>
+      <Email>ahmed.boudan@etu.uae.ac.ma</Email>
+      <Phone>0762527456</Phone>
+      <Photo>src/main/db/photos/BOUDAN_AHMED.jpeg</Photo>
+   </student>
+   <student CIN="A1011"
+             CNE="P1000012"
+             Capoge="18008817"
+             Inscription="2019 / 2020">
+      <FirstName>BOULOUQAT</FirstName>
+      <LastName>JAWAD</LastName>
+      <Email>jawad.boulouqat@etu.uae.ac.ma</Email>
+      <Phone>0694236560</Phone>
+      <Photo>src/main/db/photos/BOULOUQAT_JAWAD.jpeg</Photo>
+   </student>
+   <student CIN="A1012"
+             CNE="P1000013"
+             Capoge="18002575"
+             Inscription="2019 / 2020">
+      <FirstName>BOUSLIM</FirstName>
+      <LastName>KAOUTHAR</LastName>
+      <Email>kaouthar.bouslim@etu.uae.ac.ma</Email>
+      <Phone>0605250122</Phone>
+      <Photo>src/main/db/photos/BOUSLIM_KAOUTHAR.jpeg</Photo>
+   </student>
+   <student CIN="A1013"
+             CNE="P1000014"
+             Capoge="19006299"
+             Inscription="2019 / 2020">
+      <FirstName>CHAOUI</FirstName>
+      <LastName>NAHID</LastName>
+      <Email>nahid.chaoui@etu.uae.ac.ma</Email>
+      <Phone>0636315652</Phone>
+      <Photo>src/main/db/photos/CHAOUI_NAHID.jpeg</Photo>
+   </student>
+   <student CIN="A1014"
+             CNE="P1000015"
+             Capoge="19006311"
+             Inscription="2019 / 2020">
+      <FirstName>CHERRAT</FirstName>
+      <LastName>KHOULOUD</LastName>
+      <Email>khouloud.cherrat@etu.uae.ac.ma</Email>
+      <Phone>0610269920</Phone>
+      <Photo>src/main/db/photos/CHERRAT_KHOULOUD.jpeg</Photo>
+   </student>
+   <student CIN="A1015"
+             CNE="P1000016"
+             Capoge="19005687"
+             Inscription="2019 / 2020">
+      <FirstName>DIDI</FirstName>
+      <LastName>ABDELLAH</LastName>
+      <Email>abdellah.didi@etu.uae.ac.ma</Email>
+      <Phone>0635302758</Phone>
+      <Photo>src/main/db/photos/DIDI_ABDELLAH.jpeg</Photo>
+   </student>
+   <student CIN="A1016"
+             CNE="P1000017"
+             Capoge="19006316"
+             Inscription="2019 / 2020">
+      <FirstName>DKHISSI</FirstName>
+      <LastName>ZAKARIA</LastName>
+      <Email>zakaria.dkhissi@etu.uae.ac.ma</Email>
+      <Phone>0607021258</Phone>
+      <Photo>src/main/db/photos/DKHISSI_ZAKARIA.jpeg</Photo>
+   </student>
+   <student CIN="A1017"
+             CNE="P1000018"
+             Capoge="19006784"
+             Inscription="2019 / 2020">
+      <FirstName>EJJALILI</FirstName>
+      <LastName>MOHAMMED AMINE</LastName>
+      <Email>mohammedamine.ejjalili@etu.uae.ac.ma</Email>
+      <Phone>0654046463</Phone>
+      <Photo>src/main/db/photos/EJJALILI_MOHAMMED AMINE.jpeg</Photo>
+   </student>
+   <student CIN="A1018"
+             CNE="P1000019"
+             Capoge="18003942"
+             Inscription="2019 / 2020">
+      <FirstName>EL ARROUD</FirstName>
+      <LastName>OMAR</LastName>
+      <Email>omar.elarroud@etu.uae.ac.ma</Email>
+      <Phone>0694318290</Phone>
+      <Photo>src/main/db/photos/EL ARROUD_OMAR.jpeg</Photo>
+   </student>
+   <student CIN="A1019"
+             CNE="P1000020"
+             Capoge="19006307"
+             Inscription="2019 / 2020">
+      <FirstName>EL BOUZAYANI</FirstName>
+      <LastName>ABIR</LastName>
+      <Email>abir.elbouzayani@etu.uae.ac.ma</Email>
+      <Phone>0762476185</Phone>
+      <Photo>src/main/db/photos/EL BOUZAYANI_ABIR.jpeg</Photo>
+   </student>
+   <student CIN="A1020"
+             CNE="P1000021"
+             Capoge="19006087"
+             Inscription="2019 / 2020">
+      <FirstName>EL HAJJAJ</FirstName>
+      <LastName>HOUDA</LastName>
+      <Email>houda.elhajjaj@etu.uae.ac.ma</Email>
+      <Phone>0616785558</Phone>
+      <Photo>src/main/db/photos/EL HAJJAJ_HOUDA.jpeg</Photo>
+   </student>
+   <student CIN="A1021"
+             CNE="P1000022"
+             Capoge="18009626"
+             Inscription="2019 / 2020">
+      <FirstName>EL KANFAOUY</FirstName>
+      <LastName>AICHA</LastName>
+      <Email>aicha.elkanfaouy@etu.uae.ac.ma</Email>
+      <Phone>0605325462</Phone>
+      <Photo>src/main/db/photos/EL KANFAOUY_AICHA.jpeg</Photo>
+   </student>
+   <student CIN="A1022"
+             CNE="P1000023"
+             Capoge="19006328"
+             Inscription="2019 / 2020">
+      <FirstName>EL MANSOURI</FirstName>
+      <LastName>MARYEM</LastName>
+      <Email>maryem.elmansouri@etu.uae.ac.ma</Email>
+      <Phone>0630893947</Phone>
+      <Photo>src/main/db/photos/EL MANSOURI_MARYEM.jpeg</Photo>
+   </student>
+   <student CIN="A1023"
+             CNE="P1000024"
+             Capoge="18009629"
+             Inscription="2019 / 2020">
+      <FirstName>EL OUALYDY</FirstName>
+      <LastName>CHADIA</LastName>
+      <Email>chadia.eloualydy@etu.uae.ac.ma</Email>
+      <Phone>0707871976</Phone>
+      <Photo>src/main/db/photos/EL OUALYDY_CHADIA.jpeg</Photo>
+   </student>
+   <student CIN="A1024"
+             CNE="P1000025"
+             Capoge="19006579"
+             Inscription="2019 / 2020">
+      <FirstName>EL OUIZGANY</FirstName>
+      <LastName>MOHAMED</LastName>
+      <Email>mohamed.elouizgany@etu.uae.ac.ma</Email>
+      <Phone>0622855847</Phone>
+      <Photo>src/main/db/photos/EL OUIZGANY_MOHAMED.jpeg</Photo>
+   </student>
+   <student CIN="A1025"
+             CNE="P1000026"
+             Capoge="19005657"
+             Inscription="2019 / 2020">
+      <FirstName>ELJOUNAIDI</FirstName>
+      <LastName>ASSYA</LastName>
+      <Email>assya.eljounaidi@etu.uae.ac.ma</Email>
+      <Phone>0696306121</Phone>
+      <Photo>src/main/db/photos/ELJOUNAIDI_ASSYA.jpeg</Photo>
+   </student>
+   <student CIN="A1026"
+             CNE="P1000027"
+             Capoge="19006139"
+             Inscription="2019 / 2020">
+      <FirstName>ERGHOUT</FirstName>
+      <LastName>MOUAD</LastName>
+      <Email>mouad.erghout@etu.uae.ac.ma</Email>
+      <Phone>0623052099</Phone>
+      <Photo>src/main/db/photos/ERGHOUT_MOUAD.jpeg</Photo>
+   </student>
+   <student CIN="A1027"
+             CNE="P1000028"
+             Capoge="18008656"
+             Inscription="2019 / 2020">
+      <FirstName>ESSABAR</FirstName>
+      <LastName>SALMA</LastName>
+      <Email>salma.essabar@etu.uae.ac.ma</Email>
+      <Phone>0613705441</Phone>
+      <Photo>src/main/db/photos/ESSABAR_SALMA.jpeg</Photo>
+   </student>
+   <student CIN="A1028"
+             CNE="P1000029"
+             Capoge="19006809"
+             Inscription="2019 / 2020">
+      <FirstName>FADIL</FirstName>
+      <LastName>OUSSAMA</LastName>
+      <Email>oussama.fadil@etu.uae.ac.ma</Email>
+      <Phone>0687923772</Phone>
+      <Photo>src/main/db/photos/FADIL_OUSSAMA.jpeg</Photo>
+   </student>
+   <student CIN="A1029"
+             CNE="P1000030"
+             Capoge="18003773"
+             Inscription="2019 / 2020">
+      <FirstName>FAZAZI</FirstName>
+      <LastName>ABDERRAHIM</LastName>
+      <Email>abderrahim.fazazi@etu.uae.ac.ma</Email>
+      <Phone>0694476693</Phone>
+      <Photo>src/main/db/photos/FAZAZI_ABDERRAHIM.jpeg</Photo>
+   </student>
+   <student CIN="A1030"
+             CNE="P1000031"
+             Capoge="18008668"
+             Inscription="2019 / 2020">
+      <FirstName>FERD</FirstName>
+      <LastName>IKRAM</LastName>
+      <Email>ikram.ferd@etu.uae.ac.ma</Email>
+      <Phone>0618233691</Phone>
+      <Photo>src/main/db/photos/FERD_IKRAM.jpeg</Photo>
+   </student>
+   <student CIN="A1031"
+             CNE="P1000032"
+             Capoge="19005848"
+             Inscription="2019 / 2020">
+      <FirstName>GUEMMAR</FirstName>
+      <LastName>OUSSAMA</LastName>
+      <Email>oussama.guemmar@etu.uae.ac.ma</Email>
+      <Phone>0602940366</Phone>
+      <Photo>src/main/db/photos/GUEMMAR_OUSSAMA.jpeg</Photo>
+   </student>
+   <student CIN="A1032"
+             CNE="P1000033"
+             Capoge="18008766"
+             Inscription="2019 / 2020">
+      <FirstName>HACHGUER</FirstName>
+      <LastName>MOHAMED</LastName>
+      <Email>mohamed.hachguer@etu.uae.ac.ma</Email>
+      <Phone>0693670566</Phone>
+      <Photo>src/main/db/photos/HACHGUER_MOHAMED.jpeg</Photo>
+   </student>
+   <student CIN="A1033"
+             CNE="P1000034"
+             Capoge="19005701"
+             Inscription="2019 / 2020">
+      <FirstName>HAJLI</FirstName>
+      <LastName>ZAKARIA</LastName>
+      <Email>zakaria.hajli@etu.uae.ac.ma</Email>
+      <Phone>0700754740</Phone>
+      <Photo>src/main/db/photos/HAJLI_ZAKARIA.jpeg</Photo>
+   </student>
+   <student CIN="A1034"
+             CNE="P1000035"
+             Capoge="19006346"
+             Inscription="2019 / 2020">
+      <FirstName>HMAMOUCHI</FirstName>
+      <LastName>MAYSAE</LastName>
+      <Email>maysae.hmamouchi@etu.uae.ac.ma</Email>
+      <Phone>0682708600</Phone>
+      <Photo>src/main/db/photos/HMAMOUCHI_MAYSAE.jpeg</Photo>
+   </student>
+   <student CIN="A1035"
+             CNE="P1000036"
+             Capoge="18011660"
+             Inscription="2019 / 2020">
+      <FirstName>IBRAHIM HASSAN</FirstName>
+      <LastName>ABOUBAKER</LastName>
+      <Email>aboubaker.ibrahimhassan@etu.uae.ac.ma</Email>
+      <Phone>0691068466</Phone>
+      <Photo>src/main/db/photos/IBRAHIM HASSAN_ABOUBAKER.jpeg</Photo>
+   </student>
+   <student CIN="A1036"
+             CNE="P1000037"
+             Capoge="19005885"
+             Inscription="2019 / 2020">
+      <FirstName>IBRAHIMI</FirstName>
+      <LastName>OUIAM</LastName>
+      <Email>ouiam.ibrahimi@etu.uae.ac.ma</Email>
+      <Phone>0614370091</Phone>
+      <Photo>src/main/db/photos/IBRAHIMI_OUIAM.jpeg</Photo>
+   </student>
+   <student CIN="A1037"
+             CNE="P1000038"
+             Capoge="19005552"
+             Inscription="2019 / 2020">
+      <FirstName>ID ALI OUISAID</FirstName>
+      <LastName>AYMANE</LastName>
+      <Email>aymane.idaliouisaid@etu.uae.ac.ma</Email>
+      <Phone></Phone>
+      <Photo>src/main/db/photos/ID ALI OUISAID_AYMANE.jpeg</Photo>
+   </student>
+   <student CIN="A1038"
+             CNE="P1000039"
+             Capoge="19005743"
+             Inscription="2019 / 2020">
+      <FirstName>IDALIN</FirstName>
+      <LastName>SOHAIB</LastName>
+      <Email>sohaib.idalin@etu.uae.ac.ma</Email>
+      <Phone>0684317455</Phone>
+      <Photo>src/main/db/photos/IDALIN_SOHAIB.jpeg</Photo>
+   </student>
+   <student CIN="A1039"
+             CNE="P1000040"
+             Capoge="19006837"
+             Inscription="2019 / 2020">
+      <FirstName>JELLOULI</FirstName>
+      <LastName>YASSINE</LastName>
+      <Email>yassine.jellouli@etu.uae.ac.ma</Email>
+      <Phone>0693070482</Phone>
+      <Photo>src/main/db/photos/JELLOULI_YASSINE.jpeg</Photo>
+   </student>
+   <student CIN="A1040"
+             CNE="P1000041"
+             Capoge="20010864"
+             Inscription="2019 / 2020">
+      <FirstName>KASMANE</FirstName>
+      <LastName>GHITA</LastName>
+      <Email>ghita.kasmane@etu.uae.ac.ma</Email>
+      <Phone>0665392358</Phone>
+      <Photo>src/main/db/photos/KASMANE_GHITA.jpeg</Photo>
+   </student>
+   <student CIN="A1041"
+             CNE="P1000042"
+             Capoge="19006664"
+             Inscription="2019 / 2020">
+      <FirstName>KHABAR</FirstName>
+      <LastName>ACHRAF</LastName>
+      <Email>achraf.khabar@etu.uae.ac.ma</Email>
+      <Phone>0699530916</Phone>
+      <Photo>src/main/db/photos/KHABAR_ACHRAF.jpeg</Photo>
+   </student>
+   <student CIN="A1042"
+             CNE="P1000043"
+             Capoge="19006542"
+             Inscription="2019 / 2020">
+      <FirstName>KHAYAT</FirstName>
+      <LastName>ILIASS</LastName>
+      <Email>iliass.khayat@etu.uae.ac.ma</Email>
+      <Phone>0671063561</Phone>
+      <Photo>src/main/db/photos/KHAYAT_ILIASS.jpeg</Photo>
+   </student>
+   <student CIN="A1043"
+             CNE="P1000044"
+             Capoge="19005696"
+             Inscription="2019 / 2020">
+      <FirstName>LAABIDI</FirstName>
+      <LastName>KHAWLA</LastName>
+      <Email>khawla.laabidi@etu.uae.ac.ma</Email>
+      <Phone>0656409371</Phone>
+      <Photo>src/main/db/photos/LAABIDI_KHAWLA.jpeg</Photo>
+   </student>
+   <student CIN="A1044"
+             CNE="P1000045"
+             Capoge="19005741"
+             Inscription="2019 / 2020">
+      <FirstName>LAGZAL</FirstName>
+      <LastName>MOHAMED</LastName>
+      <Email>mohamed.lagzal@etu.uae.ac.ma</Email>
+      <Phone>0675295854</Phone>
+      <Photo>src/main/db/photos/LAGZAL_MOHAMED.jpeg</Photo>
+   </student>
+   <student CIN="A1045"
+             CNE="P1000046"
+             Capoge="19005906"
+             Inscription="2019 / 2020">
+      <FirstName>MESAOURI DEBOUN</FirstName>
+      <LastName>BILAL</LastName>
+      <Email>bilal.mesaourideboun@etu.uae.ac.ma</Email>
+      <Phone>0777937221</Phone>
+      <Photo>src/main/db/photos/MESAOURI DEBOUN_BILAL.jpeg</Photo>
+   </student>
+   <student CIN="A1046"
+             CNE="P1000047"
+             Capoge="18006931"
+             Inscription="2019 / 2020">
+      <FirstName>MOHAMMADINE</FirstName>
+      <LastName>DOHA</LastName>
+      <Email>doha.mohammadine@etu.uae.ac.ma</Email>
+      <Phone>0707871976</Phone>
+      <Photo>src/main/db/photos/MOHAMMADINE_DOHA.jpeg</Photo>
+   </student>
+   <student CIN="A1047"
+             CNE="P1000048"
+             Capoge="19013017"
+             Inscription="2019 / 2020">
+      <FirstName>NOBIME</FirstName>
+      <LastName>SALOMON MERVEILLE</LastName>
+      <Email>salomonmerveille.nobime@etu.uae.ac.ma</Email>
+      <Phone>0614953561</Phone>
+      <Photo>src/main/db/photos/NOBIME_SALOMON MERVEILLE.jpeg</Photo>
+   </student>
+   <student CIN="A1048"
+             CNE="P1000049"
+             Capoge="19013642"
+             Inscription="2019 / 2020">
+      <FirstName>NOROHANITRINIAINA</FirstName>
+      <LastName>JOELLA  STECY</LastName>
+      <Email>joellastecy.norohanitriniaina@etu.uae.ac.ma</Email>
+      <Phone>0670997901</Phone>
+      <Photo>src/main/db/photos/NOROHANITRINIAINA_JOELLA  STECY.jpeg</Photo>
+   </student>
+   <student CIN="A1049"
+             CNE="P1000050"
+             Capoge="19005635"
+             Inscription="2019 / 2020">
+      <FirstName>OUAISSA</FirstName>
+      <LastName>AYA</LastName>
+      <Email>aya.ouaissa@etu.uae.ac.ma</Email>
+      <Phone>0637794066</Phone>
+      <Photo>src/main/db/photos/OUAISSA_AYA.jpeg</Photo>
+   </student>
+   <student CIN="A1050"
+             CNE="P1000051"
+             Capoge="18008736"
+             Inscription="2019 / 2020">
+      <FirstName>RACHED</FirstName>
+      <LastName>WASSIM BASSEL</LastName>
+      <Email>wassimbassel.rached@etu.uae.ac.ma</Email>
+      <Phone>0668049468</Phone>
+      <Photo>src/main/db/photos/RACHED_WASSIM BASSEL.jpeg</Photo>
+   </student>
+   <student CIN="A1051"
+             CNE="P1000052"
+             Capoge="19005644"
+             Inscription="2019 / 2020">
+      <FirstName>RAHABAT</FirstName>
+      <LastName>OUMAYMA</LastName>
+      <Email>oumayma.rahabat@etu.uae.ac.ma</Email>
+      <Phone>0638355101</Phone>
+      <Photo>src/main/db/photos/RAHABAT_OUMAYMA.jpeg</Photo>
+   </student>
+   <student CIN="A1052"
+             CNE="P1000053"
+             Capoge="19012654"
+             Inscription="2019 / 2020">
+      <FirstName>RASOANIRINA HAINGOTIANA</FirstName>
+      <LastName>JOACHIN ANISSA</LastName>
+      <Email>joachinanissa.rasoanirinahaingotiana@etu.uae.ac.ma</Email>
+      <Phone>0613447897</Phone>
+      <Photo>src/main/db/photos/RASOANIRINA HAINGOTIANA_JOACHIN ANISSA.jpeg</Photo>
+   </student>
+   <student CIN="A1053"
+             CNE="P1000054"
+             Capoge="19006359"
+             Inscription="2019 / 2020">
+      <FirstName>RHONI AREF</FirstName>
+      <LastName>LAILA</LastName>
+      <Email>laila.rhoniaref@etu.uae.ac.ma</Email>
+      <Phone>0644372274</Phone>
+      <Photo>src/main/db/photos/RHONI AREF_LAILA.jpeg</Photo>
+   </student>
+   <student CIN="A1054"
+             CNE="P1000055"
+             Capoge="19006218"
+             Inscription="2019 / 2020">
+      <FirstName>SAMHI</FirstName>
+      <LastName>FERDAOUSS</LastName>
+      <Email>ferdaouss.samhi@etu.uae.ac.ma</Email>
+      <Phone>0694623002</Phone>
+      <Photo>src/main/db/photos/SAMHI_FERDAOUSS.jpeg</Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName> </FirstName>
+      <LastName> </LastName>
+      <Email> </Email>
+      <Phone> </Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+   <student CIN="" CNE="" Capoge="" Inscription="">
+      <FirstName>null</FirstName>
+      <LastName></LastName>
+      <Email></Email>
+      <Phone></Phone>
+      <Photo></Photo>
+   </student>
+</Students>

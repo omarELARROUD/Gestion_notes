@@ -9,20 +9,10 @@ import java.io.*;
 
 public class pdfCreation {
 
-    public static void createHtml(String input, String output, String xslt) throws FOPException, TransformerException, FileNotFoundException {
-//        try {
-//            TransformerFactory TF = TransformerFactory.newInstance();
-//            Transformer transformer =
-//                    TF.newTransformer(new StreamSource(new File(xslt)));
-//            StreamSource SS = new StreamSource(new File(input));
-//            StreamResult SR = new StreamResult(new File(output));
-//            transformer.transform(SS, SR);
-//            System.out.println("Fichiers generes avec succes  ");
-//        }catch(Exception e) {
-//            System.out.println(e.getMessage());
-//        }
+    public static void createFile(String input, String output, String xsl) throws FOPException, TransformerException, FileNotFoundException {
 
-        File xslFile = new File(xslt);
+
+        File xslFile = new File(xsl);
         StreamSource xmlSource = new StreamSource(new File(input));
         FopFactory fopFactory = FopFactory.newInstance(new File(".").toURI());
         FOUserAgent fOUserAgent = fopFactory.newFOUserAgent();

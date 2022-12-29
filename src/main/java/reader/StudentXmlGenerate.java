@@ -35,8 +35,7 @@ public class StudentXmlGenerate {
         attr1.setValue("GINF2");
         rootelm.setAttributeNode(attr1);
 
-        for(int i=2
-            ; i<sheet.getLastRowNum();i++){
+        for(int i=1; i<sheet.getLastRowNum();i++){
             Row row =sheet.getRow(i);
             Element elm = document.createElement("student");
             rootelm.appendChild(elm);
@@ -53,19 +52,28 @@ public class StudentXmlGenerate {
             attr4.setValue(formatter.formatCellValue(row.getCell(2)));
             elm.setAttributeNode(attr4);
 
+            Attr attr5 = document.createAttribute("Inscription");
+            attr5.setValue(formatter.formatCellValue(row.getCell(13)));
+            elm.setAttributeNode(attr5);
+
             Element elm1 = document.createElement("FirstName");
             Element elm2 = document.createElement("LastName");
             Element elm3 = document.createElement("Email");
             Element elm4 = document.createElement("Phone");
+            Element elm5 = document.createElement("Photo");
+
             elm1.appendChild(document.createTextNode(row.getCell(3)+""));
             elm2.appendChild(document.createTextNode(formatter.formatCellValue(row.getCell(4))));
             elm3.appendChild(document.createTextNode(formatter.formatCellValue(row.getCell(5))));
             elm4.appendChild(document.createTextNode(formatter.formatCellValue(row.getCell(9))));
+            elm5.appendChild(document.createTextNode(row.getCell(14).getStringCellValue()));
+
 
             elm.appendChild(elm1);
             elm.appendChild(elm2);
             elm.appendChild(elm3);
             elm.appendChild(elm4);
+            elm.appendChild(elm5);
 
 
         }

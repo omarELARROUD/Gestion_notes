@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student CIN="A1000"
+          CNE="P1000001"
+          Capoge="19006326"
+          Inscription="2019 / 2020">
+   <FirstName>ABASSI</FirstName>
+   <LastName>YASSER</LastName>
+   <Email>yasser.abassi@etu.uae.ac.ma</Email>
+   <Phone>0604621261</Phone>
+   <Photo>src/main/db/photos/ABASSI_YASSER.jpeg</Photo>
+</student>
